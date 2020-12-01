@@ -1,1 +1,2 @@
-Just a boilerplate react app
+React smart section
+https://github.com/netguru/react-smart-sections
